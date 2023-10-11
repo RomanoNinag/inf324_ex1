@@ -1,0 +1,28 @@
+div.infohead{
+	background: #032547;
+	color: #ffff;
+	text-align: center;
+	display: inline-block;
+}
+body{
+	color: #ffff;
+	background: #002B5A;
+
+}
+div.conten{
+	background: #133772;
+}
+.subti{
+	color: #5283dE; 
+	font-size: 25px;
+}
+footer {
+	padding:1px;
+	background-color: #032547;
+	position: fixed;
+	width: 100%;
+	bottom: 0;
+  }
+  footer p {
+	text-align: center;
+  }
